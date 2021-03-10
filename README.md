@@ -1,2 +1,2 @@
-# ad-com.fr
-code d'imprimante portable adcom
+[imprimante-ad-com.fr.pdf](https://github.com/imprimante/ad-com.fr/files/6113294/imprimante-ad-com.fr.pdf)
+L'imprimante portable de poche ADCOM est la meilleur imprimante. Cette position s'explique par la portabilité de cette imprimante, son design epuré et compact mais également par son prix avantageux. L'imprimante portable fonctionne sans encre avec une systeme thermique,  ce qui la rend très ecologique. 
